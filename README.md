@@ -20,6 +20,9 @@ More material will be uploaded soon!
 | 13:00 - 13:20| Hands-on |
 | 14:20 - 15:00| Discussion and closing|
 
+## Feedback form
+Please provide us with your feedback, so we can continue to improve our workshops!
+[Workshop Feedback Form](https://goo.gl/forms/myfOPGBJSVa8GJWB2)
 
 ## Acknowledgments
 - [Data Science Community @UM](https://www.maastrichtuniversity.nl/research/data-science-um/datascience-community)
