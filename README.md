@@ -20,11 +20,6 @@ More material will be uploaded soon!
 | 13:00 - 13:20| Hands-on |
 | 14:20 - 15:00| Discussion and closing|
 
-
-## Acknowledgments
-- [Data Science Community @UM](https://www.maastrichtuniversity.nl/research/data-science-um/datascience-community)
-- [Euregio Data Science Hub](https://arnoan.github.io/eu-dash/)
-
 ## Machine Learning tools mentioned in the workshop:
 
 Weka: a collection of machine learning algorithms for data mining tasks https://www.cs.waikato.ac.nz/ml/weka/ 
@@ -50,3 +45,9 @@ Shogun:Python, Octave, Java / Scala, Ruby, C#, R, Lua. They are currently workin
 Deeplearn.js: an open-source library that brings performant machine learning building blocks to the web https://deeplearnjs.org/ 
 
 ConvNetJS: a Javascript library for training Deep Learning models (Neural Networks) entirely in your browser https://cs.stanford.edu/people/karpathy/convnetjs/
+
+
+## Acknowledgments
+- [Data Science Community @UM](https://www.maastrichtuniversity.nl/research/data-science-um/datascience-community)
+- [Euregio Data Science Hub](https://arnoan.github.io/eu-dash/)
+
