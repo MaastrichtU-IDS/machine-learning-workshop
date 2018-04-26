@@ -21,7 +21,7 @@ More material will be uploaded soon!
 | 14:20 - 15:00| Discussion and closing|
 
 ## Feedback form
-Please provide us with your feedback, so we can continue to improve our workshops!
+Please provide us with your feedback, so we can continue to improve our workshops.
 - [Workshop Feedback Form](https://goo.gl/forms/myfOPGBJSVa8GJWB2)
 
 ## Acknowledgments
